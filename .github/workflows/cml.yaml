@@ -27,4 +27,4 @@ jobs:
           # Post reports as comments in GitHub PRs
           echo "MODAL METRICS"
           cat metrics.txt 
-          cml comment create report.md
+
